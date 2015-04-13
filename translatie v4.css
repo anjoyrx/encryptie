@@ -1,0 +1,33 @@
+p   {font-size: 22px; }
+
+h1  {font-size: 66px; color: #dc0a02; font-family: sans-serif; font-face: verdana; text-align: center; }
+
+div {align: center; }
+
+/* body {background-color: lightgray; } */
+
+div         {background-color: #b897ac}
+
+#koptekst   {background-color: #b897ac;
+            width: 922px;
+            margin-bottom: 20px;
+            font-family: sans-serif;
+            font-size: 44px;
+            color: #dc0a02;
+            text-align: center;}
+#links      {background-color: white; display: inline-block; height: 800px; width: 100px; vertical-align: bottom;}
+#midden     {background-color:white;
+            display: inline-block;
+            height: 800px;
+            width: 715px;
+            vertical-align: bottom;}
+#rechts     {background-color: white; display: inline-block;height: 800px; width: 100px; vertical-align: bottom;}
+#voettekst  {background-color: #b898ac;
+            width: 922px;
+            font-family: sans-serif;
+            font-size: 22px;
+            color: #dc0c04 ;
+            text-align: center;}
+#cijfertekst {background-color: white; color: #52b11f;}
+#klaretekst {background-color: white; color: #dc0c04;}
+#melding    {background-color: #dc0a02; height: 50px; font-size: 22px;}
